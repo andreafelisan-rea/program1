@@ -1,0 +1,12 @@
+//Program #01: Welcome to C++ language Programming
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    string name;
+    cout<<"Welcome to C++ language Programming"; 
+    cout<<"\n Good morning pal!,what is your name? ";
+    cin>>name;
+    cout<<"Hi"+ name + ",Welcome to C++ Programming Class. \n "; 
+    }
